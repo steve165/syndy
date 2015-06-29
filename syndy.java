@@ -1,4 +1,4 @@
-// Synducate master file
+// Syndicate master file
 //
 {
 
